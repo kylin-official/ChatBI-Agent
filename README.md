@@ -13,8 +13,8 @@
 ## 环境准备
 
 ```bash
-git clone https://github.com/kylin-official/ChatBI数据式对话分析Agent.git
-cd ChatBI数据式对话分析Agent
+git clone https://github.com/kylin-official/ChatBI-Agent.git
+cd ChatBI-Agent
 
 # 建议使用虚拟环境
 python -m venv .venv
